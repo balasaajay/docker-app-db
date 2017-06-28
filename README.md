@@ -7,7 +7,7 @@
 ## How to execute
 
 1. Clone the repo
-### Execute below commands in the cloned directory (make sure docker-compose.yml is present)
+###### Execute below commands in the cloned directory (make sure docker-compose.yml is present)
 2. To **build** docker images for mysql db and application: ``` docker-compose build ```
 3. To **start** the services: ``` docker-compose up -d ```
 4. To **stop** the services: ``` docker-compose stop ```
