@@ -10,3 +10,4 @@ CREATE TABLE `user` (
   UNIQUE KEY `guid` (`guid`)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
+GRANT ALL PRIVILEGES ON test.* TO 'root'@'%' IDENTIFIED BY 'test';
