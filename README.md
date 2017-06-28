@@ -1,4 +1,4 @@
-# Python api to check whether data is present in a particular table in mysql database (Containerzied)
+# Python api to check whether data is present in a particular table in mysql database (dockerized)
 
 ## Prerequisites
 - Make sure docker and docker-compose are installed on the host
