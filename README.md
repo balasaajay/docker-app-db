@@ -2,7 +2,7 @@
 
 ## Prerequisites
 - Make sure **docker** and **docker-compose** are installed on the host
-- No services are listening on ports **5000** or **3306**
+- No services are listening on ports **5000** and **3306**
 
 ## How to execute
 
